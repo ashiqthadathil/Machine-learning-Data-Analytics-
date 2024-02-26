@@ -1,2 +1,3 @@
 # Machine-learning-Data-Analytics-
-Project that i done in my class and im still doing on myself.
+Project that doing on myself.One of the project is according population growth rate .
+Telecom service project is the other one.
